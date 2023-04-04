@@ -69,3 +69,12 @@ EPW/
   - cab nrc
   - national register of citizens
   - citizenship bill
+  
+### Contributors
+
+Pranoy J
+Sarthak Agrawal
+Pravalika Mukkiri
+Dhruvee Birla
+Aaradhya Gupta
+Harshdeep Singh
